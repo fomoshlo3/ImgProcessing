@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgProcessing", "ImgProcessing\ImgProcessing.csproj", "{636E2F48-3B4F-4BB4-B1D8-7FAF165A11E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImgProcessing.GUI", "ImgProcessing.GUI\ImgProcessing.GUI.csproj", "{1B2AA546-F6C7-4DEB-851A-D4E346C4A671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636E2F48-3B4F-4BB4-B1D8-7FAF165A11E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636E2F48-3B4F-4BB4-B1D8-7FAF165A11E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636E2F48-3B4F-4BB4-B1D8-7FAF165A11E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636E2F48-3B4F-4BB4-B1D8-7FAF165A11E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2AA546-F6C7-4DEB-851A-D4E346C4A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2AA546-F6C7-4DEB-851A-D4E346C4A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2AA546-F6C7-4DEB-851A-D4E346C4A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2AA546-F6C7-4DEB-851A-D4E346C4A671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5268A869-2DB9-41AB-B6C1-7EA5E18474C5}
+	EndGlobalSection
+EndGlobal
